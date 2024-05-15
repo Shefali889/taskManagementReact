@@ -5,10 +5,12 @@ Hosted url - https://task-management-shefali.vercel.app
 
 ### How to Start ?
 > `npm install`
+
 > `npm start`
 
 ### How to Build ?
 > `npm run build`
+
 Builds the app for production to the `build` folder.
 
 
